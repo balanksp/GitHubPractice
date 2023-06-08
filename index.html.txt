@@ -13,5 +13,6 @@
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 <style> src="hi this is new line"</style>
 <link rel="stylesheet" href="bluestyle.css"> // 15 line added in 3rd branch
+empty line 4-branch
 </body>
 </html>
